@@ -1,4 +1,4 @@
-# IMMO Take-Home App/ Test
+# IMMO Take-Home Assignment
 
 ## About:
 
