@@ -25,10 +25,12 @@ App will be viewable on http://localhost:3000
 # Challenge Brief:
 
 For this exercise, you're going to implement a web page according to the
-attached design. The purpose of the page is to allow users to search for
+attached design (see below)). The purpose of the page is to allow users to search for
 properties matching a given address search-string, and select some of the
 resulting records to appear in the "Selected properties" section at the top of
 the page.
+
+![1643990168258.png](image/README/1643990168258.png)
 
 ## User journey
 
