@@ -1,8 +1,8 @@
-# IMMO Take-Home App/ Test
+# Property Search Tool
 
 ## About:
 
-React-typescript takehome app (with a touch of Bootstrap and vanilla css for styling).
+React-typescript app (with a touch of Bootstrap and vanilla css for styling). Originally a takehome-test, hence the API is included in API.js, to simulate a live API.
 
 Time spent: roughly 3 hours.
 
