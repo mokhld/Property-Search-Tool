@@ -3,6 +3,7 @@
 ## About:
 
 React-typescript app (with a touch of Bootstrap and vanilla css for styling). Originally a takehome-test, hence the API is included in API.js, to simulate a live API.
+See in live:  https://property-search-app.surge.sh/
 
 Time spent: roughly 3 hours.
 
